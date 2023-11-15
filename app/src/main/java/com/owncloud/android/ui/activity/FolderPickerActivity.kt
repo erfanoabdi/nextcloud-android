@@ -605,6 +605,7 @@ open class FolderPickerActivity :
         const val MOVE_OR_COPY = "MOVE_OR_COPY"
         const val CHOOSE_LOCATION = "CHOOSE_LOCATION"
         private val TAG = FolderPickerActivity::class.java.simpleName
-        protected const val TAG_LIST_OF_FOLDERS = "LIST_OF_FOLDERS"
+
+        const val TAG_LIST_OF_FOLDERS = "LIST_OF_FOLDERS"
     }
 }
